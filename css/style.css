@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&display=swap');
+
+body{
+	background: rgb(238,174,202);
+	background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+h2{
+	font-family: 'Bitter', serif;
+}
+.bgNav{
+	color: #94bbe9;
+}
+nav img{
+	width: 150px;
+}
+
+article img{
+		width: 100%;
+}
+
+.bgCard{
+	background-color: #d9b8d3;
+}
+
+h3 p{
+ font-size: large;
+}
